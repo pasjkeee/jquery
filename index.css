@@ -1,0 +1,41 @@
+.container{
+    width: 600px;
+}
+
+.container__colors{
+    width: 300px;
+}
+
+.polzunok{
+    margin-top: 30px;
+}
+
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#text{
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 20px 0px;
+}
+
+.polzunok-container-3 .polzunok-bg-3 {
+    position: absolute;
+    background: #BFE2FF;
+    height: 32px;
+    width:100%;
+    box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.down{
+    display: none;
+}
+
+.ui-widget-header{
+    color: rgb(255,0,0);
+}
